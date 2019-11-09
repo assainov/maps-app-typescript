@@ -13,9 +13,9 @@ A simple TypeScript app that generates a random user and company, and put their 
    npm install
 
 ```
-2. **Run the bundler**
+2. **Run the local bundler**
 ```shell
-   parcel index.html
+   npm start
 
 ```
 
